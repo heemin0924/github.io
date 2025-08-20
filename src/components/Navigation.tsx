@@ -44,7 +44,7 @@ const Navigation: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <span className="text-xl font-bold text-gray-900">
-              {portfolioConfig.personal.name.split(' ')[0]}
+              {"Portfolio"}
             </span>
           </div>
 

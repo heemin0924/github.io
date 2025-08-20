@@ -49,11 +49,11 @@ export interface PortfolioConfig {
 
 export const portfolioConfig: PortfolioConfig = {
   personal: {
-    name: "Alex Johnson",
+    name: "Heemin Kim",
     title: "Full-Stack Developer & UI/UX Designer",
-    email: "alex.johnson@example.com",
-    location: "San Francisco, CA",
-    phone: "+1 (555) 123-4567",
+    email: "heemin.kim@example.com",
+    location: "Seoul, South Korea",
+    phone: "+82 10-1234-5678",
     avatar: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400",
     resumeUrl: "/resume.pdf"
   },
@@ -75,10 +75,10 @@ export const portfolioConfig: PortfolioConfig = {
     ]
   },
   social: {
-    github: "https://github.com/alexjohnson",
-    linkedin: "https://linkedin.com/in/alexjohnson",
-    twitter: "https://twitter.com/alexjohnson",
-    instagram: "https://instagram.com/alexjohnson"
+    github: "https://github.com/heeminkim",
+    linkedin: "https://linkedin.com/in/heeminkim",
+    twitter: "https://twitter.com/heeminkim",
+    instagram: "https://instagram.com/heeminkim"
   },
   projects: [
     {
@@ -88,7 +88,7 @@ export const portfolioConfig: PortfolioConfig = {
       image: "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["React", "Node.js", "PostgreSQL", "Stripe", "AWS"],
       liveUrl: "https://ecommerce-demo.example.com",
-      githubUrl: "https://github.com/alexjohnson/ecommerce-platform",
+      githubUrl: "https://github.com/heeminkim/ecommerce-platform",
       featured: true
     },
     {
@@ -98,7 +98,7 @@ export const portfolioConfig: PortfolioConfig = {
       image: "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["React", "TypeScript", "Firebase", "Tailwind CSS"],
       liveUrl: "https://taskapp-demo.example.com",
-      githubUrl: "https://github.com/alexjohnson/task-management",
+      githubUrl: "https://github.com/heeminkim/task-management",
       featured: true
     },
     {
@@ -108,7 +108,7 @@ export const portfolioConfig: PortfolioConfig = {
       image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["Vue.js", "D3.js", "OpenWeather API", "Chart.js"],
       liveUrl: "https://weather-dashboard.example.com",
-      githubUrl: "https://github.com/alexjohnson/weather-dashboard",
+      githubUrl: "https://github.com/heeminkim/weather-dashboard",
       featured: false
     },
     {
@@ -118,7 +118,7 @@ export const portfolioConfig: PortfolioConfig = {
       image: "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
       technologies: ["Next.js", "Contentful", "Vercel", "GraphQL"],
       liveUrl: "https://portfolio-cms.example.com",
-      githubUrl: "https://github.com/alexjohnson/portfolio-cms",
+      githubUrl: "https://github.com/heeminkim/portfolio-cms",
       featured: false
     }
   ],
