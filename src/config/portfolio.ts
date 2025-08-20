@@ -51,10 +51,10 @@ export const portfolioConfig: PortfolioConfig = {
   personal: {
     name: "Heemin Kim",
     title: "Full-Stack Developer & UI/UX Designer",
-    email: "heemin.kim@example.com",
+    email: "heemin0924@gmail.com",
     location: "Seoul, South Korea",
-    phone: "+82 10-1234-5678",
-    avatar: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400",
+    phone: "+82 10-7120-4997",
+    avatar: "https://raw.githubusercontent.com/heemin0924/heemin0924.github.io/main/profile.jpg",
     resumeUrl: "/resume.pdf"
   },
   hero: {
